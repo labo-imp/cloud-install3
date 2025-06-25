@@ -10,7 +10,7 @@ dataset3="tb_stocks.txt"
 dataset4="product_id_apredecir201912.txt"
 pseudopublic="list"
 
-export zulipbot="GoogleCloud-bot@austral2025.zulip.rebelare.com:QRSrOCvg73ZnK3XI6bLZsicWUDACfauB"
+export zulipbot="GoogleCloud-bot@austral2024.zulip.rebelare.com:QRSrOCvg73ZnK3XI6bLZsicWUDACfauB"
 export zulipurl="https://austral2024.zulip.rebelare.com/api/v1/messages"
 
 kaggleprueba="102_kaggle_prueba-labo3.r"
